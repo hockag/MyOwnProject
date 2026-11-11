@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  padding: 20px 0;
+}
+
+.make__main-photo {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.make__main-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/*# sourceMappingURL=style.css.map */
